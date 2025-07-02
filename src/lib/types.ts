@@ -3,6 +3,7 @@ export type Product = {
   name: string;
   price: number;
   images: string[];
+  'data-ai-hint': string;
   category: 'Tops' | 'Bottoms' | 'Dresses' | 'Jackets' | 'Accessories';
   sizes: ('XS' | 'S' | 'M' | 'L' | 'XL')[];
   colors: { name: string; hex: string }[];

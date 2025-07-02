@@ -6,7 +6,7 @@ export const products: Product[] = [
     name: 'Elegant High-Neck Blouse',
     price: 75.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'elegant blouse',
+    'data-ai-hint': 'elegant blouse',
     category: 'Tops',
     sizes: ['XS', 'S', 'M', 'L'],
     colors: [
@@ -23,7 +23,7 @@ export const products: Product[] = [
     name: 'Tailored Wide-Leg Trousers',
     price: 120.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'wide-leg trousers',
+    'data-ai-hint': 'wide-leg trousers',
     category: 'Bottoms',
     sizes: ['S', 'M', 'L', 'XL'],
     colors: [
@@ -40,7 +40,7 @@ export const products: Product[] = [
     name: 'Flowy A-Line Midi Dress',
     price: 150.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'midi dress',
+    'data-ai-hint': 'midi dress',
     category: 'Dresses',
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
     colors: [
@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: 'Classic Trench Coat',
     price: 250.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'trench coat',
+    'data-ai-hint': 'trench coat',
     category: 'Jackets',
     sizes: ['S', 'M', 'L'],
     colors: [{ name: 'Classic Tan', hex: '#D2B48C' }],
@@ -71,7 +71,7 @@ export const products: Product[] = [
     name: 'Minimalist Leather Tote',
     price: 180.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'leather tote',
+    'data-ai-hint': 'leather tote',
     category: 'Accessories',
     sizes: [],
     colors: [
@@ -88,7 +88,7 @@ export const products: Product[] = [
     name: 'Cashmere Crewneck Sweater',
     price: 195.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'cashmere sweater',
+    'data-ai-hint': 'cashmere sweater',
     category: 'Tops',
     sizes: ['S', 'M', 'L', 'XL'],
     colors: [
@@ -104,7 +104,7 @@ export const products: Product[] = [
     name: 'Cropped Denim Jacket',
     price: 98.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'denim jacket',
+    'data-ai-hint': 'denim jacket',
     category: 'Jackets',
     sizes: ['XS', 'S', 'M', 'L'],
     colors: [
@@ -119,7 +119,7 @@ export const products: Product[] = [
     name: 'Satin Slip Skirt',
     price: 85.0,
     images: ['https://placehold.co/600x800.png', 'https://placehold.co/600x800.png'],
-    data-ai-hint: 'satin skirt',
+    'data-ai-hint': 'satin skirt',
     category: 'Bottoms',
     sizes: ['XS', 'S', 'M', 'L'],
     colors: [
